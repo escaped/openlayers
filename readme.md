@@ -1,3 +1,9 @@
+
+Added 'OpenLayers.Geometry.CubicCurve' for SVG renderer. This implementation is
+  * inspired by: http://trac.osgeo.org/openlayers/ticket/1715 and
+  * based on: http://raphaeljs.com/graffle.html .
+
+
 # OpenLayers
 
 Copyright (c) 2005-2012 OpenLayers Contributors. See authors.txt for
